@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\bin\Debug\net6.0-windows\Meher's calculator.exe
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\bin\Debug\net6.0-windows\Meher's calculator.deps.json
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\bin\Debug\net6.0-windows\Meher's calculator.runtimeconfig.json
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\bin\Debug\net6.0-windows\Meher's calculator.dll
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\bin\Debug\net6.0-windows\Meher's calculator.pdb
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher_s_calculator.Form1.resources
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.AssemblyInfo.cs
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.dll
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\refint\Meher's calculator.dll
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.pdb
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\Meher's calculator.genruntimeconfig.cache
+E:\Visual Studio Projects\Meher's calculator\Meher's calculator\obj\Debug\net6.0-windows\ref\Meher's calculator.dll
